@@ -1,4 +1,4 @@
-path: "/asset/<path:path>"
+path: "/e/8oh2fxjs0el0dokf/asset/<path:path>"
 method: "GET"
 extra:
   python:
